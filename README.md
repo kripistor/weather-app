@@ -1,7 +1,7 @@
 
 Установка и запуск
 ```bash
-git https://github.com/kripistor/weather-app.git
+git clone https://github.com/kripistor/weather-app.git
 cd weather-api
 docker compose up --build
 ```
@@ -13,4 +13,5 @@ http://127.0.0.1:8000/
 ```
 http://127.0.0.1:8000/metrics
 ```
+
 
